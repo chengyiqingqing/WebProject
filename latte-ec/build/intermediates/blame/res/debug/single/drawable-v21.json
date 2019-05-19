@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

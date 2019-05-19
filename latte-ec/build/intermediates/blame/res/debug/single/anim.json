@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\h_fragment_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\h_fragment_exit.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\bundles\\default\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\pop_exit_no_anim.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\pop_exit_no_anim.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\h_fragment_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\h_fragment_enter.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\h_fragment_pop_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\h_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\v_fragment_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\v_fragment_enter.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\v_fragment_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\v_fragment_exit.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\no_anim.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\no_anim.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\h_fragment_pop_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\h_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4126f92aa57a716bcec34c15b32716c57245e143\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\v_fragment_pop_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\v_fragment_pop_enter.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b16e5733f7dc755291be0eb6b679fcd82bb8438a\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\v_fragment_pop_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0def8afe168536f0f22c962d0df546b88fe7a8a3\\output\\res\\anim\\v_fragment_pop_exit.xml"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\bundles\\default\\res\\anim\\push_bottom_in.xml"
+    }
+]

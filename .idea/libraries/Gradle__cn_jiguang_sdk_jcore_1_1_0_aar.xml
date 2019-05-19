@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.jiguang.sdk:jcore:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b5b4bfa201a71b10d7f13ff318de365fdcd69749/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b5b4bfa201a71b10d7f13ff318de365fdcd69749/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b5b4bfa201a71b10d7f13ff318de365fdcd69749/output/jars/libs/jcore-android_v1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

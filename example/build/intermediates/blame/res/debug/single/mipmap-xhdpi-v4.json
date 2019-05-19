@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "I:\\testwork\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\avatar.jpg",
+        "source": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\avatar.jpg"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\launcher_02.jpeg",
+        "source": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\launcher_02.jpeg"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\launcher_03.jpeg",
+        "source": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\launcher_03.jpeg"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\launcher_04.jpeg",
+        "source": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\launcher_04.jpeg"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\launcher_00.jpeg",
+        "source": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\launcher_00.jpeg"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\launcher_01.jpeg",
+        "source": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\launcher_01.jpeg"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\example\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\launcher_05.jpeg",
+        "source": "I:\\testwork\\c1m03d\\latte-ec\\build\\intermediates\\bundles\\default\\res\\mipmap-xhdpi-v4\\launcher_05.jpeg"
+    }
+]

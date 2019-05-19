@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_scale.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\drawable-ldpi-v4\\ucrop_ic_scale.png"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_crop.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\drawable-ldpi-v4\\ucrop_ic_crop.png"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_cross.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\drawable-ldpi-v4\\ucrop_ic_cross.png"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_rotate.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\drawable-ldpi-v4\\ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_done.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_next.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\drawable-ldpi-v4\\ucrop_ic_next.png"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_angle.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
+    },
+    {
+        "merged": "I:\\testwork\\c1m03d\\latte-core\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_reset.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\32fbed12bdb1a64e89537c5f76cfb6b46abc00e1\\output\\res\\drawable-ldpi-v4\\ucrop_ic_reset.png"
+    }
+]
